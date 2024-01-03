@@ -1,1 +1,1 @@
-A place to keep a PowerShell profile skeleton.
+A place to keep a PowerShell profile template.
